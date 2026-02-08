@@ -8,20 +8,9 @@
 
 An institutional-grade multi-agent investment platform that orchestrates autonomous financial agents for real-time portfolio automation. Built with Pathway's streaming data processing framework, the platform synthesizes regulatory filings, market microstructure, and quantitative signals through a coordinated ecosystem of specialized agents.
 
-**Production URLs**
-- Frontend: https://agentinvest.space
-- Grafana: https://grafana.agentinvest.space
-- Prometheus: https://prometheus.agentinvest.space
-- Flower (Celery): https://flower.agentinvest.space
+**Production Currently not deployed**
 
-**Access (admin user for both Grafana & Flower)**
-- Grafana: user `admin` / pass `agentinvest-pathway`
-- Flower: user `admin` / pass `admin123`
-
-**Demo testing accounts** (restricted; for QA only)
-- user1@demo.com / User1DemoPassword1@3$
-- user2@demo.com / User2DemoPassword##2@!
-- user3@demo.com / User3!!Pass#$%#word
+**[Video](https://drive.google.com/file/d/1ldJ6WsDSvcLPYUz08GhWJhw8DysFBh97/view?usp=drivesdk)**
 
 ## 🏗️ Architecture Overview
 
